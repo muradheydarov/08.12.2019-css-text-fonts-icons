@@ -2,7 +2,7 @@
 
 ## Oxumalı olduğunuz materiallar
 - w3schools dan Text, Fonts, Icons, Links, Max-Width
-
+- kecdiyimiz movzulari youtube ve basqa movzulardan da arasdirmaq
 
 ## Tabşırıqlar
 
